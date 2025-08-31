@@ -1,0 +1,11 @@
+Rust REPL MCP Server
+Copyright 2025 [Reid Harris]
+
+This product includes software developed by the evcxr project.
+- evcxr_repl: https://github.com/evcxr/evcxr
+  Copyright (c) 2018 David Lattimore
+  Licensed under the Apache License, Version 2.0
+
+This product includes the Model Context Protocol (MCP) library.
+- mcp: https://github.com/modelcontextprotocol/python-sdk
+  Licensed under the MIT License
